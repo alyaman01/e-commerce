@@ -7,8 +7,11 @@ A frontend e-commerce web application built using React + Vite. Users can browse
 
 
 Product listing
+
 Add to Cart
+
 Remove from Cart
+
 Quantity handling
 Global Cart (Context API)
 Responsive Navbar
