@@ -47,3 +47,10 @@ cd frontend
 npm install
 
 npm run dev
+
+👨‍💻 Author
+**Al Yaman**
+
+BTech Student | Aspiring Software Engineer Interested in Full Stack & Mobile App Development
+
+⭐ If you like this project, feel free to star the repository!
